@@ -1,3 +1,4 @@
+// TODO: Implement the API_KEY in the iOS.
 const GOOGLE_API_KEY = 'AIzaSyAS7i5DZRGZohNAmNpfUBOztIx13gMvT18';
 
 class LocationHelper {
